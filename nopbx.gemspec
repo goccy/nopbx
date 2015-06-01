@@ -8,9 +8,9 @@ Gem::Specification.new do |spec|
   spec.version       = Nopbx::VERSION
   spec.authors       = ["goccy"]
   spec.email         = ["goccy54@gmail.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
-  spec.homepage      = ""
+  spec.summary       = %q{Provides method of removing project.pbxproj from your project.}
+  spec.description   = %q{Provides method of removing project.pbxproj from your project.}
+  spec.homepage      = "https://github.com/goccy/nopbx/wiki"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
